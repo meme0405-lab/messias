@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace hostpital.com.br
+namespace hospital.com.br
 {
     class Paciente
     {

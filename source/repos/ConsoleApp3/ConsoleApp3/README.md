@@ -1,4 +1,4 @@
-# Fila de Pacientes (Vetor)
+# Fila de Pacientes (Vetor) - hospital.com.br
 
 Exercício: controle de fila de pacientes de um hospital usando apenas um vetor (array).
 
@@ -10,7 +10,7 @@ Funcionalidades:
 - Digitar 'q' no menu para sair
 
 Como executar:
-1. Abra a pasta `ConsoleApp3` no Visual Studio (projeto .NET Framework 4.7.2).
+1. Abra a pasta `ConsoleApp3` no Visual Studio (projeto .NET Framework 4.7.2). Se desejar, renomeie o namespace para `hospital.com.br` no arquivo Program.cs.
 2. Compile e execute (F5 ou Ctrl+F5).
 3. Use o menu para testar as funcionalidades.
 

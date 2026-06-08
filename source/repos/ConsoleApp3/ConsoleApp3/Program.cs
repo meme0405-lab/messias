@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp3
+namespace hostpital.com.br
 {
     class Paciente
     {

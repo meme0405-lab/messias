@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Resposta local
+*.log
+
+# Packages
+*.nupkg
+.nuget/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+
+# Others
+*.cache
+
+# Ignore the workspace root from parent user repo
+..\
